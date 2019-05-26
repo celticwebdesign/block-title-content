@@ -4,7 +4,7 @@
  * Register Blocks
  * @see https://www.billerickson.net/building-gutenberg-block-acf/#register-block
  *
- * Darren: https://gist.github.com/celticwebdesign/0d798433a85587d49e0eb3bba9538fcb
+ * Darren: 		https://github.com/celticwebdesign/block-title-content
  * ACF: 		title-content.php
  * ACF JSON: 	acf-export-2019-05-26.json
  * Preview: 	partials/block-title-content.php
