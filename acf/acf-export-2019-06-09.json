@@ -137,8 +137,8 @@
                 "sub_fields": [
                     {
                         "key": "field_5cea6d34a3092",
-                        "label": "Content",
-                        "name": "block_title_content__content_g__content",
+                        "label": "Text",
+                        "name": "block_title_content__content_g__text",
                         "type": "wysiwyg",
                         "instructions": "",
                         "required": 0,
